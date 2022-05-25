@@ -1,3 +1,31 @@
 body {
-    background: blue;
+    background: lightgray;
+}
+
+div.title {
+    text-align: center;
+    font-size: 56px;
+    background: lightsteelblue;
+    margin-left: 512px;
+    margin-right: 512px;
+}
+
+h2#introduction {
+    text-align: center;
+    font-size: 42px;
+}
+
+div.intro {
+    font-size: 18px;
+}
+
+h3 {
+    text-align: center;
+    font-size: 36px;
+}
+
+img.headimages {
+    margin: auto;
+    display: block;
+    width: 60%;
 }
